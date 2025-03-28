@@ -31,4 +31,4 @@ Os critérios avaliativos específicos estão listados abaixo:
 
 7) Produzir um arquivo de dados em formato JSON equivalente a todos os dados relacionados à construtora ALFA, incluindo suas obras e seus respectivos trabalhadores. Use o conceito de dados agregados (e não de relacionamentos via “_id”). Em outras palavras, deverá haver apenas 1 objeto principal (sendo todos os demais agregados deste objeto).
 
-<a href="Modelo Conceitual Online">https://app.brmodeloweb.com/#!/publicview/67d3f0244a6632182073b4fe</a>
+[Modelo Conceitual Online](https://app.brmodeloweb.com/#!/publicview/67d3f0244a6632182073b4fe)
