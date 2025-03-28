@@ -1,4 +1,4 @@
-O escopo da atividade incluia executar um processo completo de modelagem de dados relacional e o estabelecimento de um banco de dados funcional.
+O escopo da atividade incluia executar um processo completo de modelagem de dados relacional e o estabelecimento de um banco de dados funcional.  
 Os critérios avaliativos específicos estão listados abaixo:
 
 1) Gerar o modelo conceitual na ferramenta BR Modelo;
