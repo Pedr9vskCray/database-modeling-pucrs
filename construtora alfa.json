@@ -1,0 +1,103 @@
+{
+    "código": 10,
+    "nome": "Construtora Alfa S.A.",
+    "nome fantasia": "Alfa Incorporações",
+    "telefones": ["(51) 3333-3334", "(51) 3333-3335", "(51) 3333-3336"],
+    "obras": [
+        {
+            "código": 115,
+            "nome": "Condomínio dos Lagos",
+            "logradouro": "Travessa dos Lagos",
+            "número": "100",
+            "complemento": "Norte",
+            "trabalhadores": [
+            {
+                "cpf": "101.101.101-34",
+                "nome": "José Chaves",
+                "salario": 2200.00
+            },
+            {
+                "cpf": "102.102.102-91",
+                "nome": "Pedro Passos",
+                "salario": 3502.18 
+            },
+            {
+                "cpf": "103.103.103-18",
+                "nome": "Maria Aparecida",
+                "salario": 2800.87
+            }
+            ],
+            "equipamentos": [
+                {
+                    "código": 301,
+                    "data_inicio": "3/18/2022, 12:00:00 AM",
+                    "data_fim": "10/24/2022, 12:00:00 AM",
+                    "nome": "Betoneira",
+                    "valor_diaria": "100.00",
+                    "categoria": "Concretagem"
+                },
+                {
+                    "código": 304,
+                    "data_inicio": "4/20/2022, 12:00:00 AM",
+                    "data_fim": "8/2/2022, 12:00:00 AM",
+                    "nome": "Guincho",
+                    "valor_diaria": "250.00",
+                    "categoria": "Acesso e Elevação"
+                },
+                {
+                    "código": 306,
+                    "data_inicio": "7/6/2021, 12:00:00 AM",
+                    "data_fim": "7/18/2021, 12:00:00 AM",
+                    "nome": "Piso Metálico",
+                    "valor_diaria": "150.00",
+                    "categoria": "Andaimes"
+                }
+            ]
+        },
+        {
+            "código": 116,
+            "nome": "Condomínio Araras",
+            "logradouro": "Avenida Rio Grande",
+            "número": "22",
+            "complemento": "Lado A",
+            "trabalhadores":[
+            {
+                "cpf": "104.104.104-52",
+                "nome": "Carlos Dutra",
+                "salario": 3100.00
+            },
+            {
+                "cpf": "105.105.105-85",
+                "nome": "Mário Pires",
+                "salario": 4323.29
+            }
+            ],
+            "equipamentos":[
+                {
+                    "código": 306,
+                    "data_inicio": "9/12/2022, 12:00:00 AM",
+                    "data_fim": "9/21/2022, 12:00:00 AM",
+                    "nome": "Piso Metálico",
+                    "valor_diaria": "150.00",
+                    "categoria": "Andaimes"
+                },
+                {
+                    "código": 307,
+                    "data_inicio": "8/16/2022, 12:00:00 AM",
+                    "data_fim": "8/24/2022, 12:00:00 AM",
+                    "nome": "Furadeira de Bancada",
+                    "valor_diaria": "65.00",
+                    "categoria": "Ferramenta Elétrica"
+                },
+                {
+                    "código": 308,
+                    "data_inicio": "10/23/2022, 12:00:00 AM",
+                    "data_fim": "10/25/2022, 12:00:00 AM",
+                    "nome": "Parafusadeira",
+                    "valor_diaria": "37.00",
+                    "categoria": "Ferramenta Elétrica"
+                }
+            ]
+        }
+    ]
+}
